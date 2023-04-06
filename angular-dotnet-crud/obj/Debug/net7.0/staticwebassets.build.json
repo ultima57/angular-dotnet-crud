@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iF+EUiacCQ8uIjQ0jXVs3SA4TOZgawx2FEh5/MpJigM=",
+  "Source": "angular-dotnet-crud",
+  "BasePath": "_content/angular-dotnet-crud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
